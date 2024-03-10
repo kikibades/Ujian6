@@ -1,10 +1,10 @@
 package com.juaracoding;
 
-public class Soal3 {
+public class Soal3ke2 {
     public static void main(String[] args) {
 
-        String T1 = ":T1:202112SOAL3";
-        String T2 = "SOAL3/2112/AB000000011 OD:0001234500CDE5432100 SOAL003 ABCDE12345 XAS SKILL TEST ESSAY .DT";
+        String T1 = ":T1:202111SOAL3";
+        String T2 = "SOAL3/2111/BC000011100 OD:0003452100EFG2451300 SOAL003 EFGHI25134 XAS SKILL TEST ESSAY .DT";
 
         int totalLength = T2.length();
 
@@ -25,4 +25,6 @@ public class Soal3 {
 
     }
 }
+
+
 

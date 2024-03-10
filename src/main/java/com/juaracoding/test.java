@@ -21,6 +21,7 @@ public class test {
                 String trailer4 = T2.substring(3 * partLength, 4 * partLength);
                 String trailer5 = T2.substring(4 * partLength);
 
+                System.out.println(":T1:202112SOAL3");
                 System.out.println(":T2:" + trailer3 + trailer4 + trailer5 + trailer1 + trailer2);
             } else {
                 System.out.println("Panjang total string tidak dapat dibagi rata menjadi 5 bagian.");
