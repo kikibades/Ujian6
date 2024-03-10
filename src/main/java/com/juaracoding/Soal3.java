@@ -29,5 +29,6 @@ public class Soal3 {
         } else {
             System.out.println("Panjang total string tidak dapat dibagi rata menjadi 5 bagian.");
         }
+        System.out.println();
     }
 }
