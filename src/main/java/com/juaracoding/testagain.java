@@ -1,6 +1,6 @@
 package com.juaracoding;
 
-public class Soal2 {
+public class testagain {
 
     public static void main(String[] args) {
         int n = 9;
